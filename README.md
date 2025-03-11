@@ -100,5 +100,4 @@ cd linkedin-scraper-email-generator
 
 ---
 
-💡 **Made with ❤️ by [Your Name]**
 
